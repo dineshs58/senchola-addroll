@@ -1,0 +1,81 @@
+.navbars
+{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.logo
+{
+    margin-left: 15px;
+}
+.buton
+{
+    background-color: rgb(100, 55, 143);
+    width: 150px;
+    padding: 11px 150px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0px 15px;
+    color: white !important;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.buton:hover
+{
+    background-color: rgb(100, 49, 87);
+}
+.logins:hover
+{
+    border-bottom: solid 1px blue;
+    
+}
+.box
+{
+    width: 600px;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: 10px;
+    display: none;
+    position: absolute;
+    top: 100px;
+ }
+.ul li:hover .box
+{
+    display: block !important;
+}
+
+
+
+.boxes
+{
+   width: 600px;
+   height: 500px;
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   margin-top: 10px;
+}
+.dropdown:hover .dropdown-menu 
+{
+    display: block !important;
+}
+
+.dropdown .dropdown-menu.show
+{
+    display: none !important;
+}
+.list-item
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    list-style-type: none;
+}
+.list-item li
+{
+    text-decoration: none;
+    margin: 0px 10px;
+}
+.banner_header
+{
+    background-color: rgb(87, 21, 76);
+    width: 100%;
+    height: auto;
+}

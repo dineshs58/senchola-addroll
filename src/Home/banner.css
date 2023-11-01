@@ -1,0 +1,94 @@
+.btns1
+{
+    background-color: rgb(100, 55, 143);
+    width: 130px;
+    padding: 15px 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0px 0px;
+    color: white !important;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border: none;
+}
+
+.btns2
+{
+    background-color: rgb(29, 133, 165);
+    width: 150px;
+    padding: 15px 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0px 15px;
+    color: white !important;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border: none;
+}
+.btns1:hover
+{
+    background-color: rgb(100, 49, 87);
+}
+.btns2:hover
+{
+    background-color: rgb(129, 200, 209);
+}
+
+.full_banner_section
+{
+    background-color: antiquewhite;
+}
+.links
+{
+    color: pink;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.logos_banners img
+{
+    margin: 0px 16px;
+}
+
+.next_banner
+{
+    margin-top: 20px;
+    background-color: rgb(245, 237, 237);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+}
+.right
+{
+    background-color: rgb(133, 223, 235);
+    padding: 0px 70px;
+    border-radius: 11% 0% 11% 33% / 54% 25% 0% 44%;
+    padding-bottom: 20px;
+    /* margin-right: -115px; */
+    background-size: 100% 100%;
+}
+.right img{
+    width: 300px;
+    height: 400px;
+}
+.grades img
+{
+   margin: 0px 10px;
+}
+.dd img
+{
+    width:300;
+}
+@media only screen and (min-width:700px){
+    .right img{
+        width: 400px;
+        height: 500px;
+    }
+}
+@media only screen and (min-width:700px){
+    .right img{
+        width: 300px;
+        height: 400px;
+    }
+}

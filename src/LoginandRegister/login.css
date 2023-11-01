@@ -1,0 +1,27 @@
+.logs
+{
+    width: 500px;
+    height: 500px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 35px;
+}
+.btnsnn
+{
+    width: 100%;
+    height: 45px;
+    border: none;
+    background-color: rgb(14, 160, 170);
+    color: white;
+}
+.spans
+{
+    margin: 0px 10px;
+}
+.calls
+{
+    margin-left: 110px;
+    margin-top: 20px;
+}

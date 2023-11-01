@@ -1,0 +1,47 @@
+.New
+{
+    margin-top: 80px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+}
+.links
+{
+    color: pink;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.full_Couverds
+{
+    border: solid 10px rgb(5, 5, 95);
+}
+.back_Ground_Waues
+{
+    border-radius: 50% 50% 33% 40% / 43% 60% 0% 57%;
+    /* border-radius: 59% 38% 33% 50% / 40% 60% 0% 52%; */
+    background:rgb(243, 143, 160);
+    height: 360px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.back_Colors
+{
+   
+  margin-top: 100px;
+  margin-left: 40px;
+}
+.back_Colors p
+{
+    width: 330px;
+    margin-top: 15px;
+}
+.box1234
+{
+    background-color: antiquewhite;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
